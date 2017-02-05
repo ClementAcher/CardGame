@@ -1,0 +1,1 @@
+g++ main.cpp Card.cpp CardFactory.cpp Chain.cpp Deck.cpp DiscardPile.cpp Gemstones.cpp Hand.cpp Player.cpp Table.cpp TradeArea.cpp -o exec -std=c++11
